@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repo](https://github.com/serfoll/fm-testimonial-grid-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Testimonial Grid Section](https://fm-testimonial-grid-section.netlify.app)
 
 ## My process
 
